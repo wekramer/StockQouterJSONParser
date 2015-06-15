@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-c8f96861fcd19a363a83f81a600c613af422ef1d.jar" />
+    </item>
+    <item
+        jar="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\pre-dexed\debug\classes-546573a1a5d617562d5dd089495e287841698b6e.jar" />
+    </item>
+    <item
+        jar="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\pre-dexed\debug\classes-e3934a14753947949135f31189b956734f227a9a.jar" />
+    </item>
+    <item
+        jar="C:\Users\josh\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\android studio projects\workout_monitor\StockQouterYahoo_json Basic\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-f0a6c27d0e3b203245d7f4ec0a1e592e646d8109.jar" />
+    </item>
+
+</items>
